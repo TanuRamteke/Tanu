@@ -1,3 +1,4 @@
 # Tanu
-This is my first repository 
-Autor- Tanushree 
+This is my first repository
+<br>
+Author- Tanushree 
